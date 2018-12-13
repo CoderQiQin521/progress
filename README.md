@@ -13,8 +13,12 @@
 
 ## use
 html
-`<div id="progress"></div>`  
+```
+<div id="progress"></div>
+```  
 js
-`$('#progress).progress(options)`
+```
+$('#progress).progress(options)
+```
 
 ## give me a star : )
